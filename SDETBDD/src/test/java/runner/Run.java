@@ -12,5 +12,5 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(features="Features",glue="stepdefinition",plugin="html:C:\\Users\\prave\\eclipse-workspace\\SDETBDD\\Reports\\r1.html")
 
 public class Run {
-System.println("success");
+
 }
