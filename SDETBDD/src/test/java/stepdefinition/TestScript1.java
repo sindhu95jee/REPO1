@@ -19,7 +19,6 @@ public class TestScript1 {
 		 driver.get("https://demo.openmrs.org/openmrs/login.htm");
 		System.out.println("Chrome browser and url of the application opened");
 		
-		
 	}
 	@When("Enter vaild Username, valid password")
 	public void enter_vaild_username_valid_password() {
